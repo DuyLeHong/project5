@@ -6,6 +6,7 @@ import { getDatabase } from "firebase/database";
 const firebaseConfig = {
   apiKey: "",
   authDomain: "",
+  databaseURL: "",
   projectId: "",
   storageBucket: "",
   messagingSenderId: "",
